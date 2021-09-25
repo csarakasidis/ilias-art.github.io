@@ -7,8 +7,10 @@ featured_image: '/images/sculptures/dna.jpg'
 ---
 
 <!-- ![](/images/sculptures/dna.jpg) -->
-<div class="gallery">
-	<img src="/images/sculptures/dna.jpg"/>
+<div class="gallery" data-columns="1">
+	<center>
+	<img src="/images/sculptures/dna.jpg" width="700" height="300">
+	</center>
 </div>
 
 ## Demo content

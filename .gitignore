@@ -4,4 +4,4 @@ node_modules
 Gemfile.lock
 *.gem
 .DS_Store
-.jekyll-cached/
+.jekyll-cache/
