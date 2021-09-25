@@ -54,8 +54,7 @@ You can throw in some horizontal rules too:
 ---
 
 ### Gallery images
-<div></div>
-<!-- data-columns="2" -->
+
 <div class="gallery" data-columns="1">
 	<center>
 	<img src="/images/sculptures/the_meeting_black_font.jpg" width="720" height="200">
