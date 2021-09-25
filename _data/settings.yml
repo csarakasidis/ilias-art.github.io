@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Duet
+  site_title: ilias-art
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Portfolio'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
