@@ -1,12 +1,15 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
+title: 'Portfolio'
+subtitle: 'List of arts from our art gallery.'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/sculptures/dna.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<!-- ![](/images/sculptures/dna.jpg) -->
+<div class="gallery">
+	<img src="/images/sculptures/dna.jpg"/>
+</div>
 
 ## Demo content
 
@@ -50,27 +53,30 @@ You can throw in some horizontal rules too:
 
 ---
 
-### Image galleries
-
-Here's a really neat custom feature we added – galleries:
-
-<div class="gallery" data-columns="3">
-	<img src="/images/demo/demo-portrait.jpg">
-	<img src="/images/demo/demo-landscape.jpg">
-	<img src="/images/demo/demo-square.jpg">
-	<img src="/images/demo/demo-landscape-2.jpg">
+### Gallery images
+<div></div>
+<!-- data-columns="2" -->
+<div class="gallery" data-columns="1">
+	<center>
+	<img src="/images/sculptures/the_meeting_black_font.jpg" width="720" height="200">
+	</center>
+	<p><center>The meeting</center></p>
 </div>
-
-Inspired by the Galleries feature from WordPress, we've made it easy to create grid layouts for your images. Just use a bit of simple HTML in your post to create a masonry grid image layout:
-
-```html
-<div class="gallery" data-columns="3">
-    <img src="/images/demo/demo-portrait.jpg">
-    <img src="/images/demo/demo-landscape.jpg">
-    <img src="/images/demo/demo-square.jpg">
-    <img src="/images/demo/demo-landscape-2.jpg">
+<div class="gallery" data-columns="1">
+	<center><img src="/images/sculptures/DNA (2).jpg" width="720" height="200"></center>
+	<p><center>DNA</center></p>
 </div>
-```
+<div class="gallery" data-columns="1">
+	<center><img src="/images/sculptures/inner prison  I.jpg" width="720" height="200"></center>
+	<p><center>Inner Prison</center></p>
+</div>
+<!-- <div class="gallery" style="text-align: center;">
+	<img src="/images/sculptures/Brain 1.jpg">
+	<img src="/images/sculptures/DNA (2).jpg">
+	<img src="images/sculptures/inner prison  I.jpg">
+</div> -->
+
+Add some text about the art.
 
 *See what we did there? Code and syntax highlighting is built-in too!*
 
