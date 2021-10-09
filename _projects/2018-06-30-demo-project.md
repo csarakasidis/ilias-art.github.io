@@ -53,7 +53,7 @@ And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
 
 You can throw in some horizontal rules too: -->
 
-### Gallery images
+<!-- ### Gallery images -->
 
 
 <div class="gallery" data-columns="1">
