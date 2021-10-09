@@ -15,8 +15,9 @@
 .blog-post {
 	position: relative;
 	padding: $grid-spacing/2;
-	float: left;
-	width: 50%;
+	padding-left: 28*$grid-spacing;
+	float: right;
+	width: 84%;	
 }
 
 .blog-post__link {
