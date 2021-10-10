@@ -10,7 +10,7 @@ menu_settings:
   menu_items:
     - title: 'Portfolio'
       url: '/'
-    - title: 'Blog'
+    - title: 'Gallery'
       url: '/blog/'
     - title: 'About'
       url: '/about'
@@ -66,7 +66,7 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#F2784B'
+  accent_color: '#a1918c'
   border_color: '#dddddd'
   overlay_background_color: '#a1918c'
   overlay_text_color: '#ffffff'
