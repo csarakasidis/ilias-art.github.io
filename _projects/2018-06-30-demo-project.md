@@ -7,8 +7,8 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/sculptures/dna.jpg">
 	<img src="/images/sculptures/DNA (2).jpg">
+	<img src="/images/sculptures/dna.jpg">
 </div>
 <p><center><font size="+2">DNA</font></center></p>
 <p><center>Dimensions:  h = 165 cm     l =   38 cm     w = 38 cm &nbsp; | &nbsp;  Weight: 140 Kg &nbsp;  | &nbsp; Materials: Marble &nbsp; | &nbsp; Creation date: 2019</center></p>
