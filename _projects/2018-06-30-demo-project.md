@@ -65,7 +65,7 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 <div class="gallery" data-columns="1">
 	<img src="/images/sculptures/Platos_cave.jpg">
 </div>
-<p><center>Crucified brain</center></p>
+<p><center>Plato's Cave</center></p>
 <p><center>Dimensions:    h =250cm     l =130cm       w =40cm &nbsp; | &nbsp;  Weight: 95 Kg &nbsp;  | &nbsp; Materials: Marble, metal & wood &nbsp; | &nbsp; Creation date: 2021</center></p>
 
 ---
