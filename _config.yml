@@ -1,7 +1,7 @@
-site: Duet Jekyll Theme
+site: ilias-art
 
-url: 
-baseurl: 
+url: https://www.ilias-art.com
+baseurl: /
 
 collections:
   pages:
@@ -12,7 +12,7 @@ collections:
     permalink: /blog/:slug
   projects:
     output: true
-    permalink: /project/:slug
+    permalink: /portfolio/:slug
 
 defaults:
   -

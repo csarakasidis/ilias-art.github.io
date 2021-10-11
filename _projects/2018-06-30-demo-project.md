@@ -29,7 +29,7 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 	<img src="/images/sculptures/inner prison  I.jpg">
 	<img src="/images/sculptures/inner prison  I (2).jpg">
 </div>
-<p><center><font size="+2">Inner Prison</font></center></p>
+<p><center><font size="+2">Inner Prison I</font></center></p>
 <p><center>Dimensions: h=83cm     l=36cm    w=34cm &nbsp; | &nbsp;  Weight: 75 Kg &nbsp;  | &nbsp; Materials: Marble  &nbsp; | &nbsp; Creation date: 2020</center></p>
 
 ---
@@ -38,7 +38,7 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 	<img src="/images/sculptures/inner-prison-II1_grey.jpg">
 	<img src="/images/sculptures/inner-prison-II2_black.jpg">
 </div>
-<p><center><font size="+2">Inner Prison</font></center></p>
+<p><center><font size="+2">Inner Prison II</font></center></p>
 <p><center>Dimensions: h=117cm    l=55cm   w=33cm &nbsp; | &nbsp;  Weight: 120 Kg &nbsp;  | &nbsp; Materials: Marble, metal &nbsp; | &nbsp; Creation date:  2021</center></p>
 
 ---
