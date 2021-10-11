@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Main'
       url: '/'
     - title: 'Portfolio'
-      url: '/portfolio/demo-project/'
+      url: '/portfolio/demo-project'
     - title: 'Gallery'
       url: '/blog/'
     - title: 'About'
