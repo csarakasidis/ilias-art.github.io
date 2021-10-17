@@ -163,3 +163,8 @@ Take a look at the demo content inside each folder for full descriptions on what
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers!
 
 🤘
+
+
+#### NOTES
+
+To change the endpoint of some request, e.g., /portfolio/demo-project to /portfolio/project you have to modify the respective key/value under collections in _config.yml. 

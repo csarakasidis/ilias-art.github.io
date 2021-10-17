@@ -1,6 +1,6 @@
 ---
 title: 'Portfolio'
-subtitle: 'List of arts from our art gallery.'
+subtitle: 'List of artworks from our art gallery.'
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/sculptures/Platos_cave.jpg'
@@ -30,7 +30,7 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 	<img src="/images/sculptures/inner prison  I (2).jpg">
 </div>
 <p><center><font size="+2">Inner Prison I</font></center></p>
-<p><center>Dimensions: h=83cm     l=36cm    w=34cm &nbsp; | &nbsp;  Weight: 75 Kg &nbsp;  | &nbsp; Materials: Marble  &nbsp; | &nbsp; Creation date: 2020</center></p>
+<p><center>Dimensions: h=83cm     l=36cm    w=34cm &nbsp; | &nbsp;  Weight: 75 Kg &nbsp;  | &nbsp; Materials: Marble, metal  &nbsp; | &nbsp; Creation date: 2020</center></p>
 
 ---
 
@@ -66,7 +66,7 @@ featured_image: '/images/sculptures/Platos_cave.jpg'
 	<img src="/images/sculptures/Platos_cave.jpg">
 </div>
 <p><center><font size="+2">Plato's Cave</font></center></p>
-<p><center>Dimensions:    h =250cm     l =130cm       w =40cm &nbsp; | &nbsp;  Weight: 95 Kg &nbsp;  | &nbsp; Materials: Marble, metal & wood &nbsp; | &nbsp; Creation date: 2021</center></p>
+<p><center>Dimensions:    h =90cm     l =80cm       w =80cm &nbsp; | &nbsp;  Weight: 40 Kg &nbsp;  | &nbsp; Materials: Marble, metal &nbsp; | &nbsp; Creation date: 2021</center></p>
 
 ---
 
