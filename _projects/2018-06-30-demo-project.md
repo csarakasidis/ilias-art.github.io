@@ -78,10 +78,10 @@ Change the number inside the 'columns' setting to create different types of gall
 
 ---
 
-### What about videos?
+<!-- ### What about videos?
 
 Section to upload potential videos 
 
 <iframe src="https://player.vimeo.com/video/148003889" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-------
+------ -->
