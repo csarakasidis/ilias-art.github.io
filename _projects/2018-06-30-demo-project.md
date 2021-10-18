@@ -90,11 +90,12 @@ Darkness will always dominate everything in here until a new software updates it
 
 ---
 
-Add some text about the art.
+Each artwork is hand-made using Greek marble, wood & metal. 
 
-*See what we did there? Code and syntax highlighting is built-in too!*
 
-Change the number inside the 'columns' setting to create different types of gallery for all kinds of purposes. You can even click on each image to seamlessly enlarge it on the page.
+<b>ilias-art</b> reserves all rights and copyright. Consequently, all works that appear on this website do so with the consent of the artist.
+
+No image or information display on this site may be reproduced, transmitted or copied without the express of written or oral permission. Contravention is an infringement of the Copyright Act and its amendments and may be subject to legal action.
 
 ---
 
