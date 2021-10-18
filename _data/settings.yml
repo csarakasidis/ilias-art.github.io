@@ -35,8 +35,8 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
+  facebook_url: 'https://www.facebook.com/profile.php?viewas=100000686899395&id=100071552150597'
+  twitter_url: 'https://twitter.com/sarakasidis'
   instagram_url: ''
   snapchat_url: ''
   youtube_url: ''
@@ -60,7 +60,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/ilias-sarakasidis-1041055b'
 
 color_settings:
   background_color: '#ffffff'
