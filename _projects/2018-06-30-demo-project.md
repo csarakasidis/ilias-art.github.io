@@ -57,8 +57,9 @@ that defines it."</center></p>
 
 <div class="gallery" data-columns="1">
 	<img src="/images/sculptures/logic.jpg">
-	<img src="/images/sculptures/logic1_white.jpg">
+	<img src="/images/sculptures/logic1_grey.jpg">
 	<img src="/images/sculptures/IMG_0069.jpg">
+	<img src="/images/sculptures/IMG_0066.jpg">
 </div>
 <p><center><font size="+2">Logic</font></center></p>
 <p><center>"Why is logic on a cross? Wild crowds screaming “Crucify it”.
