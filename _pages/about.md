@@ -28,7 +28,7 @@ Usually a sort narrative follows my artworks, so the viewer can feel closer to t
 It is well-known that public relations and good networking sometimes work as a substance to the absence of talent. The line between art and deception is thin and sometimes becomes invisible. Every artist is being judged for each artwork separately, no matter how great they are. The signature, shouldn't be part of their beacon. It's irrational to judge a piece of art based solely on the signature that it carries.
 <br>
 <br>
-My artworks are for sold, as well as for renting to public or private Museums.
+My artworks are for sale, as well as for renting to public or private Museums.
 <br>
 <br>
 Epilogue: I create, hence I exist.
