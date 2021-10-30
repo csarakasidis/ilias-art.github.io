@@ -43,8 +43,8 @@ seeking in vanity a reason to exist."</center></p>
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/sculptures/inner-prison-II1_grey.jpg">
 	<img src="/images/sculptures/inner-prison-II2_black.jpg">
+	<img src="/images/sculptures/inner-prison-II1_grey.jpg">
 </div>
 <p><center><font size="+2">Inner Prison II</font></center></p>
 <p><center>"My prison tote while panting. My mind’s prisoner, moving on my own volition. <br>
@@ -88,15 +88,27 @@ Darkness will always dominate everything in here until a new software updates it
 <br>
 <p><center>Dimensions:    h =90cm     l =80cm       w =80cm &nbsp; | &nbsp;  Weight: 40 Kg &nbsp;  | &nbsp; Materials: Marble, metal &nbsp; | &nbsp; Creation date: 2021</center></p>
 
+
+
+
+<br>
+<br>
+<br>
+
 ---
-
+<p>
+<small>
 Each artwork is hand-made using Greek marble, wood & metal. 
+</small>
+</p>
 
-
+<p>
+<small>
 <b>ilias-art</b> reserves all rights and copyright. Consequently, all works that appear on this website do so with the consent of the artist.
 
 No image or information display on this site may be reproduced, transmitted or copied without the express of written or oral permission. Contravention is an infringement of the Copyright Act and its amendments and may be subject to legal action.
-
+</small>
+</p>
 ---
 
 <!-- ### What about videos?
