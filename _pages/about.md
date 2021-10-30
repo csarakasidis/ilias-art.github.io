@@ -6,7 +6,7 @@ featured_image: /images/about/about_photo.jpg
 ---
 <!-- ![](/images/about/about_photo.jpg) -->
 <div>
-<img src="/images/about/about_photo.jpg" alt="drawing" width="400" style="float: right; margin-right: 350px; margin-left: 40px;"/>
+<img src="/images/about/about_photo.jpg" alt="drawing" width="20%" style="float: right; margin-right: 20%; margin-left: 5%;"/>
 <p style="font-family:'Trebuchet MS', sans-serif; text-align: justify"><b>Absence of a detailed CV is a personal choice. Shows lack of interest for the creation of a "brand" and complete indifference for the rules of contemporary Art market. The magic exists inside the creation and not the trade of artworks.</b>
 </p>
 <p style="font-family:'Trebuchet MS', sans-serif; text-align: justify">
